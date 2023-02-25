@@ -5,6 +5,9 @@
 #### Universidade Federal de Alfenas - UNIFAL
 Modelagens realizadas na disciplina de Computação Gráfica
 
+## Objetivo
+Desenvolver as habilidades de modelagem com softwares de editoração gráfica tridimensionais. 
+
 ## Objetos Modelados
 
 ### Planta Low Poly
